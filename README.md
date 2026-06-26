@@ -4,6 +4,29 @@ A small app for keeping track of your net worth, savings interest, and budget.
 It runs entirely on your own computer. Your numbers never leave the machine, and
 there's no account to sign up for.
 
+## What it does
+
+The app is built around snapshots: every so often you record what's in each
+account, and it turns that history into a net-worth chart and a set of
+breakdowns. What you can track and see:
+
+- **Accounts** of different kinds (current, savings, ISA, cash, pensions, and
+  money you're owed), grouped with subtotals.
+- **Net worth over time**, from the balances you record. Pensions are counted
+  separately as "locked", so you can see your spendable total apart from money
+  you can't get to yet.
+- **Savings interest**, projected forward from each account's interest rate.
+- **Pensions**, projected to retirement, with the option to view the figures in
+  today's money.
+- **A budget**, in one of two styles: a monthly income-and-spending budget, or a
+  termly student-finance budget that works out how much you can spend each week
+  and whether your money will last until the next payment.
+- **Progress**, comparing where you actually are against your plan.
+
+It's single-user and private. You can set up more than one profile on the same
+computer, each with its own PIN and its own separate data, and you can export a
+backup or a CSV whenever you want.
+
 ## Download
 
 Grab the latest version from the [Releases page](../../releases/latest):
