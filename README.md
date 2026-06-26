@@ -41,5 +41,23 @@ cloud or sent to a server.
 
 ## Updating
 
-When a new version is posted here, download it and run it. Your existing data
-stays where it is, so you won't lose anything.
+When a newer version is available, the app shows a small banner with a
+**Download** button the next time you open it. You can also just check this page.
+
+Updating never touches your data, because your data lives in the folder above,
+not inside the app. So it's just: download the new file and run it, and all your
+profiles and numbers are still there.
+
+To keep things tidy:
+
+- **Windows:** close the app first (Windows won't let you overwrite a program
+  while it's running), then save the new `FinanceTracker-Windows.exe` over the
+  old one, or delete the old one whenever you like. You don't have to delete it
+  for the new version to work.
+- **Mac:** unzip the new download and drag the app into Applications. When it
+  asks whether to replace the one that's there, say yes.
+
+You don't have to delete anything for the new version to pick up your data, and
+you can't lose your numbers by updating. Each new version shows the same "unknown
+developer" warning as the first install: on Windows, **More info** then **Run
+anyway**; on Mac, right-click and **Open**.
