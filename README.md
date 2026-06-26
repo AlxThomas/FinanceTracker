@@ -52,6 +52,37 @@ The app opens in its own window. Pick a name and a PIN to create your profile,
 and you're in. Anyone who opens a fresh copy starts empty. You won't see sample
 data or anyone else's numbers.
 
+## How to use it
+
+A new profile starts empty. Fill it in roughly this order.
+
+**1. Pick a preset.** The preset sets the wording and the kind of budget you
+get. Two are built in:
+
+- **Student** (shown as "Uni Budget"): for income that arrives in lumps, like a
+  student loan and grant each term. The budget works in terms and helps you
+  spread a term's money across the weeks, including making it through the summer.
+- **Worker** (shown as "Budget"): for a steady monthly income, with monthly
+  spending categories and a slot for pensions.
+
+Switch between them with the tag icon in the left sidebar, or manage them on the
+Presets page. You can rename the labels to suit you.
+
+**2. Add your accounts** on the Accounts page: one row per bank account,
+savings, ISA, pension, and so on. Set each one's type, and its interest rate if
+it earns interest.
+
+**3. Record a snapshot** on the Snapshots page: for a given date, type in what
+each account holds. Do this every so often, say once a month. Leave a box blank
+if an account has no balance that time, since blank means "skip", not zero. Use
+**Duplicate** on an earlier date to copy its figures and change only what moved.
+
+**4. Set up your budget** on the Budget page: enter your income and spending for
+the preset you picked. The cash-flow and progress figures update as you type.
+
+After that, the Dashboard, Interest, Pensions, and Progress pages fill in from
+what you've entered, and everything recalculates as you change numbers.
+
 ## Where your data lives
 
 Everything you enter is saved on your own computer:
