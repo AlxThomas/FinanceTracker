@@ -15,17 +15,23 @@ breakdowns. What you can track and see:
 - **Net worth over time**, from the balances you record. Pensions are counted
   separately as "locked", so you can see your spendable total apart from money
   you can't get to yet.
+- **Goals & Progress**, set savings targets (like a house deposit or holiday fund),
+  link them to specific accounts, add external contributions, and see if you're
+  on pace to hit your deadline.
+- **Yearly Salary Calculator**, easily break down a yearly salary into monthly and 
+  4-weekly take-home pay (after tax, NI, and student loans), and instantly add 
+  it to your budget.
 - **Savings interest**, projected forward from each account's interest rate.
 - **Pensions**, projected to retirement, with the option to view the figures in
   today's money.
 - **A budget**, in one of two styles: a monthly income-and-spending budget, or a
   termly student-finance budget that works out how much you can spend each week
   and whether your money will last until the next payment.
-- **Progress**, comparing where you actually are against your plan.
 
 It's single-user and private. You can set up more than one profile on the same
-computer, each with its own PIN and its own separate data, and you can export a
-backup or a CSV whenever you want.
+computer, each with its own PIN and its own separate data. You can completely 
+manage your data: export a full backup to safely store, or export your history 
+as a **CSV** to play with in Excel or Numbers, and import it back at any time.
 
 ## Download
 
@@ -81,7 +87,7 @@ if an account has no balance that time, since blank means "skip", not zero. Use
 **4. Set up your budget** on the Budget page: enter your income and spending for
 the preset you picked. The cash-flow and progress figures update as you type.
 
-After that, the Dashboard, Interest, Pensions, and Progress pages fill in from
+After that, the Dashboard, Interest, Pensions, Goals, and Progress pages fill in from
 what you've entered, and everything recalculates as you change numbers.
 
 ## Where your data lives
