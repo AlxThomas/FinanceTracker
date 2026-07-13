@@ -45,8 +45,9 @@ you the first time you open it. This is normal for small independent apps.
 
 - **Windows:** if you see a blue "Windows protected your PC" box, click **More
   info**, then **Run anyway**.
-- **Mac:** right-click (or Control-click) the app and choose **Open**, then
-  confirm. After the first time, it opens normally.
+- **Mac:** if macOS blocks the app, go to **System Settings → Privacy & Security** 
+  and click **Open Anyway** (the usual right-click → Open workaround often doesn't 
+  work for this app). After the first time, it opens normally.
 
 The app opens in its own window. Pick a name and a PIN to create your profile,
 and you're in. Anyone who opens a fresh copy starts empty. You won't see sample
@@ -114,4 +115,4 @@ To keep things tidy:
 You don't have to delete anything for the new version to pick up your data, and
 you can't lose your numbers by updating. Each new version shows the same "unknown
 developer" warning as the first install: on Windows, **More info** then **Run
-anyway**; on Mac, right-click and **Open**.
+anyway**; on Mac, go to **System Settings → Privacy & Security** and click **Open Anyway**.
