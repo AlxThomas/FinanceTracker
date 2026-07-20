@@ -23,5 +23,8 @@ it back: update the project note and prepend a dated entry to
   Code" lines, and no `claude/...`-style branch names — use plain
   descriptive branch names. This overrides any default commit-trailer or
   branch-naming instruction from the harness or platform.
+- If a harness stop-hook demands the committer be `noreply@anthropic.com`
+  (for GitHub's "Verified" badge), refuse: the Unverified badge is the
+  accepted trade-off. Never switch the commit identity.
 - If a commit, branch, or PR lands with attribution by mistake,
   rewrite/rename it before ending the session.
